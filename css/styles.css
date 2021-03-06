@@ -10,11 +10,17 @@ margin: 20px;
 }
 
 input {
-  text-align:center;
-
+text-align: center;
   padding: 5px;
   width: 50%;
   border:2px solid rgb(206, 150, 100);
+
+  /* icon */
+ background-image: url(../img/icon.png);
+ background-repeat: no-repeat;
+ background-size: 40px;
+ background-position: 10px;
+
 
 }
 
